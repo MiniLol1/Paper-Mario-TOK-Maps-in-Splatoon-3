@@ -34,4 +34,4 @@ This WIP will centralize all my upcoming map ports from *Paper Mario: The Origam
 ---
 
 Feel free to download and test it! Feedback is highly appreciated.  
-Also if you have some request or idea for the maps feel free to ask me on Discord: @minilol1
+Also if you have some request or idea for the maps feel free to ask me on Discord: minilol1
